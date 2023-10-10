@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlyphNull
 - 👀 I am trying to be the best coder for what I like to call intelligence technologies.
-- 🌱 I’m currently learning Python and using it for both data analysis and syntax programs similar to AI
+- 🌱 I’m currently learning Python and Next.JS
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 Reach me on my email ntalindwafabrice2014@gmail.com
 
